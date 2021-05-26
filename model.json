@@ -1,0 +1,1 @@
+{"lr": 0.0001, "layer": {"l0": {"neurons": 400, "activation": "input"}, "l1": {"neurons": 100, "activation": "relu"}, "l2": {"neurons": 100, "activation": "relu"}, "l3": {"neurons": 10, "activation": "softmax"}}}
